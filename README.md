@@ -12,6 +12,7 @@ This is subject to change.
 - Create our hello world!
 
 Slides: [speakerdeck.com/booyaa/learn-rust-in-12-months-month-01](https://speakerdeck.com/booyaa/learn-rust-in-12-months-month-01)
+Video: [skillsmatter.com/skillscasts/11454-learn-rust-in-12-months-part-1](https://skillsmatter.com/skillscasts/11454-learn-rust-in-12-months-part-1)
 
 ## February
 
