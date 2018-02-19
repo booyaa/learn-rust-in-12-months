@@ -1,6 +1,6 @@
 default: run
 
-.PHONY: default build run clean
+.PHONY: default build run clean demo
 
 build:
 	mkdir -p build
@@ -11,3 +11,6 @@ run: build
 
 clean:
 	rm -rf build
+
+demo:
+	@docker run -it --rm -v "${PWD}":/src -w /src intermezzos-docker:latest bash -c 'make'
