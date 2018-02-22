@@ -1,0 +1,12 @@
+[submodule "02-february/intermezzOS-docker"]
+	path = 02-february/intermezzOS-docker
+	url = https://github.com/booyaa/intermezzOS-docker.git
+[submodule "02-february/wikipedia_fortran_punchcard"]
+	path = 02-february/wikipedia_fortran_punchcard
+	url = https://github.com/booyaa/wikipedia_fortran_punchcard.git
+[submodule "02-february/read_bytes"]
+	path = 02-february/read_bytes
+	url = https://github.com/booyaa/read_bytes.git
+[submodule "02-february/presto"]
+	path = 02-february/presto
+	url = https://github.com/booyaa/presto.git
