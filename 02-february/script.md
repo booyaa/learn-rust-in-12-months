@@ -1,8 +1,17 @@
 # Script for presentation
 
-## Demo
+## Pre-reqs
+
+- start docker
+
+## Demo: presto
+
+## Demo: read_bytes
+
+## Demo: smol_kernel
 
 ```shell
-cd smol_kernel
-make demo
+./demo-smol-kernel.sh
 ```
+
+to exit: ESC,2,q
