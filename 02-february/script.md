@@ -6,12 +6,19 @@
 
 ## Demo: presto
 
+```shell
+cd presto
+code .
+cargo run
+```
+
 ## Demo: read_bytes
 
 ## Demo: smol_kernel
 
 ```shell
-./demo-smol-kernel.sh
+cd smol_kernel
+make demo
 ```
 
 to exit: ESC,2,q
